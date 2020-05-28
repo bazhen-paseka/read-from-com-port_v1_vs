@@ -1,4 +1,4 @@
-﻿Build started 28.05.2020 17:10:19.
+﻿Build started 28.05.2020 17:14:05.
      1>Project "E:\4 Repos\read-from-com-port_v1_vs\read-from-com-port_v1_vs\read-from-com-port_v1_vs.vcxproj" on node 2 (Build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\read-fro.6939B797.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -9,7 +9,6 @@
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\4 Repos\read-from-com-port_v1_vs\Debug\read-from-com-port_v1_vs.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"E:\4 Repos\read-from-com-port_v1_vs\Debug\read-from-com-port_v1_vs.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\4 Repos\read-from-com-port_v1_vs\Debug\read-from-com-port_v1_vs.lib" /MACHINE:X86 "Debug\read-from-com-port_v1_vs.obj"
          Debug\stdafx.obj
-         LINK : E:\4 Repos\read-from-com-port_v1_vs\Debug\read-from-com-port_v1_vs.exe not found or not built by the last incremental link; performing full link
          read-from-com-port_v1_vs.vcxproj -> E:\4 Repos\read-from-com-port_v1_vs\Debug\read-from-com-port_v1_vs.exe
        FinalizeBuildStatus:
          Deleting file "Debug\read-fro.6939B797.tlog\unsuccessfulbuild".
