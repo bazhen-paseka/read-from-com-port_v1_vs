@@ -1,16 +1,11 @@
-﻿Build started 28.05.2020 16:02:57.
+﻿Build started 28.05.2020 16:58:32.
      1>Project "E:\4 Repos\read-from-com-port_v1_vs\read-from-com-port_v1_vs\read-from-com-port_v1_vs.vcxproj" on node 2 (Build target(s)).
-     1>PrepareForBuild:
-         Creating directory "E:\4 Repos\read-from-com-port_v1_vs\Debug\".
-         Creating directory "Debug\read-fro.6939B797.tlog\".
-       InitializeBuildStatus:
+     1>InitializeBuildStatus:
          Creating "Debug\read-fro.6939B797.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\read-from-com-port_v1_vs.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
-         stdafx.cpp
+         All outputs are up-to-date.
          C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\read-from-com-port_v1_vs.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt "read-from-com-port_v1_vs.cpp"
          read-from-com-port_v1_vs.cpp
-     1>e:\4 repos\read-from-com-port_v1_vs\read-from-com-port_v1_vs\read-from-com-port_v1_vs.cpp(55): warning C4101: 'ov': unreferenced local variable
        Link:
          C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"E:\4 Repos\read-from-com-port_v1_vs\Debug\read-from-com-port_v1_vs.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"E:\4 Repos\read-from-com-port_v1_vs\Debug\read-from-com-port_v1_vs.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\4 Repos\read-from-com-port_v1_vs\Debug\read-from-com-port_v1_vs.lib" /MACHINE:X86 "Debug\read-from-com-port_v1_vs.obj"
          Debug\stdafx.obj
