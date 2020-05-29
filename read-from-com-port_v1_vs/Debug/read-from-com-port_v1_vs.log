@@ -1,7 +1,7 @@
-﻿Build started 28.05.2020 17:14:05.
+﻿Build started 29.05.2020 18:33:29.
      1>Project "E:\4 Repos\read-from-com-port_v1_vs\read-from-com-port_v1_vs\read-from-com-port_v1_vs.vcxproj" on node 2 (Build target(s)).
      1>InitializeBuildStatus:
-         Creating "Debug\read-fro.6939B797.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "Debug\read-fro.6939B797.tlog\unsuccessfulbuild".
        ClCompile:
          All outputs are up-to-date.
          C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\read-from-com-port_v1_vs.pch" /Fo"Debug\\" /Fd"Debug\vc141.pdb" /Gd /TP /analyze- /errorReport:prompt "read-from-com-port_v1_vs.cpp"
